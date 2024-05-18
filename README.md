@@ -4,6 +4,8 @@
 
 'Face Compare' can be particularly helpful for individuals who have a casual or non-professional interest in facial analysis. For example, it can assist in recognizing familial resemblances, understanding artistic representations, or simply satisfying curiosity about how different faces compare to one another. The tool is designed to be accessible and intuitive, guiding users through the comparison process with clear explanations and highlighting key features. By offering a preliminary analysis, 'Face Compare' provides valuable insights without making unfounded assertions about identity, personality, or emotional states, thereby ensuring its assessments are free from bias and discrimination. While it is not a substitute for professional facial analysis or forensic examination, it serves as a useful and ethical resource for anyone interested in exploring the intricacies of facial similarities and differences.
 
+#
+
 ![Margot Robbie Lookalike Face Compare](https://github.com/sourceduty/Face_Compare/assets/123030236/f02d46fe-58d2-42d9-9cf8-c026596075f9)
 
 ***
