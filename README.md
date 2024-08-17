@@ -6,10 +6,6 @@
 
 #
 
-![Margot Robbie Lookalike Face Compare](https://github.com/sourceduty/Face_Compare/assets/123030236/f02d46fe-58d2-42d9-9cf8-c026596075f9)
-
-#
-
 ![Elon Musk Face Compare](https://github.com/sourceduty/Face_Compare/assets/123030236/a3f6c179-ce3f-4718-a7a6-34955f753990)
 
 ***
