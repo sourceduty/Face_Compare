@@ -12,5 +12,13 @@
 
 ![Elon Musk Face Compare](https://github.com/sourceduty/Face_Compare/assets/123030236/a3f6c179-ce3f-4718-a7a6-34955f753990)
 
+#
+
+![Margot Robbie](https://github.com/user-attachments/assets/834b4554-6879-473f-9f9f-b3823664447d)
+
+#
+
+Alex: "*Someone privately sent me public pictures of the chick that looks like Margot Robbie.*"
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
